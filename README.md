@@ -28,7 +28,7 @@
 
 there weren't any challenges with this assignment the only thing was that I kept forgetting to turn my values into integers which resulted in me getting the strings rather than the actual sum of the numbers input in the calculator. I first solved this by doing .to_ i to turn the input into integers. then I noticed that some of the values were being rounded up which prompted me to change this to .to_f so it would give me floats. 
 
-I attempted the BMI which went well. I'
+I attempted the BMI which went well. I'm still trying the trip calulator so there may be updates to the readme and the code before deadline.
 
 
 -----
@@ -37,7 +37,7 @@ I attempted the BMI which went well. I'
 
 Over all I think that the assignment went really well. I noticed that it took less tries compared to other assignments, I knew exactly what to do which was nice.
 
-I'm finding ruby pretty straight forward so far and very similar to javascript which is great because i can use comparisons to understand ruby better.
+I'm finding ruby pretty straight forward so far and very similar to javascript which is great because i can use comparisons to understand ruby better. And as always it's a matter of practice, time will give me the experience and confidence I need... Rome wasn't built in a day!
 
 I give it an 8/10.
 
